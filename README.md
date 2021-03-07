@@ -1,1 +1,1 @@
-# PNAS---crowdsourcing-data
+# PNAS crowdsourcing data
